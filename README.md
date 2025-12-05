@@ -10,10 +10,7 @@
 
 <h3 align="center">I am just a lowly web designer, exploring frontend stuffs and I prompt most of my projects🤖.</h3>
 
----
-
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,nextjs,java,tailwind,py"/>
 
 ---
