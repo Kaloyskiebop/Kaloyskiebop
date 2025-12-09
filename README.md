@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Kaloyskiebop&theme=dark" height="180">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Kaloyskiebop&theme=whatsapp-dark" height="180">
 </div>
 
 ---
